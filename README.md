@@ -3,7 +3,7 @@ Simple Open Source Python Chess  and engine
 
 ## To Do:
 1. ~~Board Generation~~
-2. FEN Notation Suport (Half Implemented)
+2. FEN Notation Support (Half Implemented)
 3. Inputs
 4. Evaluation
 5. Move Generation
